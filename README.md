@@ -140,7 +140,11 @@ Parameters
    *c) You need to navigate through tabs before downloading results (for adhoc tool)*
 
 
-### 5. Contact
+### 5. Citation
+
+Shim, W.J., Sinniah, E., Xu, J., Vitrinel, B., Alexanian, M., Andreoletti, G., Shen, S., Sun, Y., Balderson, B., Boix, C., Peng, G., Jing, N., Wang, Y., Kellis, M., Tam, P. P. L., Smith, A., Piper, M., Christiaen, L., Nguyen, Q., Bodén, M. & Palpant, N.J. Conserved Epigenetic Regulatory Logic Infers Genes Governing Cell Identity. Cell systems, 2020, 11, 625-639.e13 
+
+### 6. Contact
 
 If any issues are found, please contact Woo Jun Shim (w.shim@uq.edu.au) for Python or Jun Xu (jun.xu@uq.edu.au) for R scripts. 
 

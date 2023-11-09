@@ -2,4 +2,4 @@
 
 Thank you for your interest in TRIAGE!
 
-Please follow link: https://github.com/woojunshim/TRIAGE
+Please follow link to download: https://sourceforge.net/projects/triage-v1/
